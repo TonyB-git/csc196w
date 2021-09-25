@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -11,7 +10,7 @@
 		<a href="https://www.google.com/">GOOGLE</a>
 	</p>
 	
-	<h2>Look a cool Magicarp</h2>
-	<img src="https://c.tenor.com/ltbVOt8HajkAAAAC/pokemon-magikarp.gif">
+	<h2>Look a cool Magikarp</h2>
+	<img src="pokemon-magikarp.gif">
   </body>
 </html>
